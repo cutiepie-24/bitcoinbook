@@ -1,7 +1,9 @@
 # Original block reward for miners was 50 BTC
-start_block_reward = 50
+start_block_reward = 5000
+
 # 210000 is around every 4 years with a 10 minute block interval
 reward_interval = 210000
+
 
 
 def max_money():
